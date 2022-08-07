@@ -9,9 +9,11 @@ jobs:
     runs-on: "ubuntu-latest"
     steps:
       - uses: actions/checkout@v3
+      - run: cd kalvara
       - uses: montudor/action-zip@v1
         with:
-          args: zip -qq -r KalvaraMC.zip kalvara
+          args: zip -qq -r ../KalvaraMC.zip *
+      - run: cd ..
       - run: sha1sum KalvaraMC.zip | sed -zre 's/(^[^ \s]*).*/\1/' > hash.txt
       - uses: marvinpinto/action-automatic-releases@latest
         with:
