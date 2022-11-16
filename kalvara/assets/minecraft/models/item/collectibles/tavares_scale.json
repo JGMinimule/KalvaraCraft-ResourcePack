@@ -1,0 +1,8 @@
+{
+    "credit": "Iron_Dirigible",
+    "parent": "item/generated",
+    "texture_size": [11, 11],
+    "textures": {
+        "layer0": "item/collectibles/tavares_scale"
+    }
+}
