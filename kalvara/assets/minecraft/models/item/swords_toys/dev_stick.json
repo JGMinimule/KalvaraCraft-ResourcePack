@@ -1,6 +1,6 @@
 {
     "credit": "Iron_Dirigible",
-    "parent": "minecraft:item/echo_shard",
+    "parent": "minecraft:item/handheld",
     "texture_size": [16, 16],
     "textures": {
         "layer0": "item/swords_toys/dev_stick"
