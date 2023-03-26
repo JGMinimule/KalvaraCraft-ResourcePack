@@ -1,8 +1,7 @@
 {
-    "credit": "Iron_Dirigible",
-    "parent": "item/handheld",
-    "texture_size": [16, 16],
-    "textures": {
-        "layer0": "item/swords_toys/dev_stick"
-    }
+    "parent": "minecraft:item/handheld",
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "item/swords_toys/dev_stick" }
+    ]
+
 }
