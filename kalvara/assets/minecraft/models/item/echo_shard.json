@@ -1,6 +1,11 @@
 {
   "parent": "minecraft:item/echo_shard",
   "overrides": [
-      { "predicate": { "custom_model_data": 1 }, "model": "item/swords_toys/dev_stick" }
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/swords_toys/dev_stick"
+    }
   ]
 }
