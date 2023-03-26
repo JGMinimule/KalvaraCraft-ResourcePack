@@ -1,7 +1,8 @@
 {
+    "credit": "Iron_Dirigible",
     "parent": "minecraft:item/echo_shard",
-    "overrides": [
-        { "predicate": { "custom_model_data": 1 }, "model": "item/swords_toys/dev_stick" }
-    ]
-
+    "texture_size": [16, 16],
+    "textures": {
+        "layer0": "item/swords_toys/dev_stick"
+    }
 }
