@@ -1,6 +1,6 @@
 {
     "credit": "Iron_Dirigible",
-    "parent": "item/generated",
+    "parent": "item/echo_shard",
     "texture_size": [16, 16],
     "textures": {
         "layer0": "item/swords_toys/dev_stick"
