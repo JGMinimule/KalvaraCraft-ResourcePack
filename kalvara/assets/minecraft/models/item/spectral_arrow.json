@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:item/handheld",
-    "overrides": [
-        { "predicate": { "custom_model_data": 1 }, "model": "item/swords_toys/scarab_blade" }
-    ]
-
-}
