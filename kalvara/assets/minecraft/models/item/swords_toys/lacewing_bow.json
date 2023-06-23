@@ -1,8 +1,9 @@
 {
 	"credit": "Iron_Dirigible",
 	"parent": "item/handheld",
-	"textures": {
-		"layer0": "item/swords_toys/rapid_gun"
+	"texture size": [64,64],
+    "textures": {
+		"layer0": "item/swords_toys/lacewing_bow"
 	},
 	"display": {
 		"thirdperson_righthand": {
