@@ -1,0 +1,14 @@
+{
+  "providers": [
+      {
+          "type": "bitmap",
+          "file": "kalvaracraft:gui/trade.png",
+          "ascent": 12,
+          "height": 125,
+          "chars": [
+              "a"
+          ]
+          
+      }
+  ]
+}
