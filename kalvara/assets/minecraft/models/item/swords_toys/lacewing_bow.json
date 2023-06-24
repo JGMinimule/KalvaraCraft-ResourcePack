@@ -1,14 +1,18 @@
 {
 	"credit": "Iron_Dirigible",
 	"parent": "item/handheld",
-	"texture size": [64,64],
-    "textures": {
+	"textures": {
 		"layer0": "item/swords_toys/lacewing_bow"
 	},
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [0, -90, 0],
-			"translation": [0, 1.75, -3.75]
+			"rotation": [-46, -90, 0],
+			"translation": [0, -2, 1.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -78, 15],
+			"translation": [1.25, 1.5, 0]
 		}
-	}
+	},
+	"texture size": [64, 64]
 }

@@ -1,8 +1,13 @@
 {
-    "credit": "Iron_Dirigible",
-    "parent": "item/generated",
-    "texture_size": [16, 16],
-    "textures": {
-        "layer0": "item/swords_toys/dev_stick"
-    }
+	"credit": "Iron_Dirigible",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/swords_toys/dev_stick"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [71, 87, -12],
+			"translation": [-0.25, 4.25, 4.25]
+		}
+	}
 }
