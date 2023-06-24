@@ -8,7 +8,15 @@
           "chars": [
               "a"
           ]
-          
-      }
+      },
+      {
+        "type": "bitmap",
+        "file": "kalvaracraft:gui/invsee.png",
+        "ascent": 13,
+        "height": 128,
+        "chars": [
+            "b"
+        ]
+    }
   ]
 }
