@@ -1,0 +1,18 @@
+{
+	"credit": "Iron_Dirigible",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/swords_toys/bracelet_shooter"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [1, -0.5, 2.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-1, -0.5, 2.5]
+		},
+		"firstperson_righthand": {
+			"translation": [1.75, 3, 0]
+		}
+	}
+}

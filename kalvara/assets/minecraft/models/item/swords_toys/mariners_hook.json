@@ -1,0 +1,17 @@
+{
+	"credit": "Iron_Dirigible",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/swords_toys/mariners_hook"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [71, 87, -12],
+			"translation": [-0.25, 5.75, 3.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [3, 118, 19],
+			"translation": [0, 4.25, 0]
+		}
+	}
+}
