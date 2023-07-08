@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/soul_campfire"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "item/custom_blocks/distillery/soul_acacia" },
+    { "predicate": { "custom_model_data": 2 }, "model": "item/custom_blocks/distillery/soul_bamboo" },
+    { "predicate": { "custom_model_data": 3 }, "model": "item/custom_blocks/distillery/soul_birch" },
+    { "predicate": { "custom_model_data": 4 }, "model": "item/custom_blocks/distillery/soul_cherry" },
+    { "predicate": { "custom_model_data": 5 }, "model": "item/custom_blocks/distillery/soul_crimson" },
+    { "predicate": { "custom_model_data": 6 }, "model": "item/custom_blocks/distillery/soul_dark_oak" },
+    { "predicate": { "custom_model_data": 7 }, "model": "item/custom_blocks/distillery/soul_jungle" },
+    { "predicate": { "custom_model_data": 8 }, "model": "item/custom_blocks/distillery/soul_mangrove" },
+    { "predicate": { "custom_model_data": 9 }, "model": "item/custom_blocks/distillery/soul_oak" },
+    { "predicate": { "custom_model_data": 10 }, "model": "item/custom_blocks/distillery/soul_spruce" },
+    { "predicate": { "custom_model_data": 11 }, "model": "item/custom_blocks/distillery/soul_warped" }
+  ]
+}
